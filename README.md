@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lyzza02
-- 👀 I’m interested in __________
-- 🌱 I’m currently learning _________
-- 💞️ I’m looking to collaborate on _________
-- 📫 How to reach me is __________
+# Hi There, I'm Elyzza 👋
+
+<img align = "left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=Lyzza02&show_icons=true&theme=radical">
+
+<img align = "right" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lyzza02&layout=compact">
