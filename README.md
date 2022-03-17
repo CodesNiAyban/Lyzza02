@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lyzza02
+- 👀 I’m interested in __________
+- 🌱 I’m currently learning _________
+- 💞️ I’m looking to collaborate on _________
+- 📫 How to reach me is __________
